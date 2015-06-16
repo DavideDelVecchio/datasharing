@@ -1,12 +1,15 @@
 How to share data with a statistician
 ===========
-
+Modified data
+============
 This is a guide for anyone who needs to share data with a statistician. The target audiences I have in mind are:
 
 * Scientific collaborators who need statisticians to analyze data for them
 * Students or postdocs in scientific disciplines looking for consulting advice
 * Junior statistics students whose job it is to collate/clean data sets
 * New Line on the orizon
+
+
 The goals of this guide are to provide some instruction on the best way to share data to avoid the most common pitfalls
 and sources of delay in the transition from data collection to data analysis. The [Leek group](http://biostat.jhsph.edu/~jleek/) works with a large
 number of collaborators and the number one source of variation in the speed to results is the status of the data
